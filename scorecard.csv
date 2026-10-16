@@ -1,0 +1,11 @@
+area,question,evidence_required,status,owner,next_action
+cron,Are paused jobs included in the inventory?,jobs export with paused_at,unread,,
+cron,Does every fire have an artifact?,fire-to-artifact diff,unread,,
+sessions,Were five recent endings read in full?,session IDs and final-state labels,unread,,
+sessions,Are subagent outputs treated as consumed by parent?,parent result link,unread,,
+signins,Does each required account pass a read-only whoami/test?,command output,unread,,
+shipping,Does each claimed ship pass fresh read-back?,status URL or object ID,unread,,
+shipping,Was ID decoded/resolved in a separate runtime?,decode log,unread,,
+shipping,Was it cross-checked in profile/history?,listing capture or query,unread,,
+money,Is the checkout/booking door live today?,HTTP status and page title,unread,,
+memory,Is memory below the safe fill threshold?,character count,unread,,
